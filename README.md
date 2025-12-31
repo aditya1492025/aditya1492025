@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Multilingual Fake News Detection Platform**
 
-- 🌱 I’m currently learning **System Design, Advanced DSA, Time Series Forecasting (ARIMA), Cloud & MLOps**
+- 🌱 I’m currently learning **System Design, DSA, Time Series Forecasting (ARIMA), Cloud & MLOps**
 
 - 👯 I’m looking to collaborate on **AI / ML Projects in NLP, Time Series & Data-Driven Applications**
 
