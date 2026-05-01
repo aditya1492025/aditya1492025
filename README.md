@@ -15,11 +15,11 @@
 
 ## About Me
 
-I'm a final-year CSE student at SSGMCE Shegaon. My work sits at the intersection of **large language models, retrieval-augmented generation, and full-stack engineering**. I don't just prototype — I've shipped production systems for Indian Railways, ISRO, and multiple institutional clients.
+I'm a final-year CSE student at SSGMCE Shegaon. My work sits at the intersection of **large language models, retrieval-augmented generation, and full-stack engineering**. I don't just prototype, I've shipped production systems for Indian Railways, ISRO, and multiple institutional clients.
 
-- 🛰️ **IEEE published** — Geospatial RAG system presented at IEEE InGARSS 2025 (ISRO NRSC, Hyderabad)
-- 🚂 **Built for Central Railway** — CREA portal (crea.org.in) serving 500+ engineers; LOCO-INFO locomotive ops system
-- 📄 **Research** — co-authored paper on AI-driven legal assistance platforms (submitted to ICICGR2026)
+- 🛰️ **IEEE published**: Geospatial RAG system presented at IEEE InGARSS 2025 (ISRO NRSC, Hyderabad)
+- 🚂 **Built for Central Railway**: CREA portal (crea.org.in) serving 500+ engineers; LOCO-INFO locomotive ops system
+- 📄 **Research**: co-authored paper on AI-driven legal assistance platforms
 
 ---
 
